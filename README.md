@@ -16,3 +16,7 @@ Provides implementations for:
 Other platforms use an implementation that always returns an error.
 
 Pull requests for other OSs happily considered!
+
+---
+
+This fork provides the additional feature of returning *all* gateway addresses not just the first one
